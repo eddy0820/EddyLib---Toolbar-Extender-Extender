@@ -1,0 +1,20 @@
+{
+  "name": "com.eddylib.toolbarextenderextender",
+  "version": "1.0.0",
+  "displayName": "EddyLib - Toolbar Extender Extender",
+  "unity": "2022.3",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "eddylib",
+    "utility"
+  ],
+  "author": {
+    "name": "eddy0820"
+  },
+  "dependencies": {
+    "com.marijnzwemmer.unity-toolbar-extender": "",
+    "com.dbrizov.naughtyattributes": ""
+  }
+}
